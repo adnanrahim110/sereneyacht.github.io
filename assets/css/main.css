@@ -1144,14 +1144,14 @@ footer p {
   color: #bebdbd;
 }
 
-.ft-form span {
+.ft-form button {
   background-color: var(--primary-color);
   padding: 10px;
   font-size: 18px;
   transition: all .3s ease-in;
 }
 
-.ft-form span:hover {
+.ft-form button:hover {
   background-color: rgba(10, 186, 180, 0.6);
 }
 
